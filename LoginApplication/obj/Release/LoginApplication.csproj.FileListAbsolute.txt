@@ -1,0 +1,13 @@
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\bin\Release\LoginApplication.exe.config
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\obj\Release\Interop.DAO.dll
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\obj\Release\LoginApplication.csproj.ResolveComReference.cache
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\bin\Release\MyDatabase.mdf
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\bin\Release\MyDatabase_log.ldf
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\bin\Release\LoginApplication.exe
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\bin\Release\LoginApplication.pdb
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\obj\Release\LoginApplication.frmLogin.resources
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\obj\Release\LoginApplication.frmMain.resources
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\obj\Release\LoginApplication.Properties.Resources.resources
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\obj\Release\LoginApplication.csproj.GenerateResource.Cache
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\obj\Release\LoginApplication.exe
+E:\Ireland\LoginApplicationSourceCode\LoginApplication\obj\Release\LoginApplication.pdb
